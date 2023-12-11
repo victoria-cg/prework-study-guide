@@ -1,7 +1,8 @@
 # <Prework-Study-Guide-Webpage>
 
-## The study guide was created to provide a webpage for students to store their bootcamp notes. It is organized by bootcamp topic, and it provides a way for students to organize the large amount of information they are learning. I learned basic skills for use of Git and Github, HMTL, CSS, and JavaScript to implement the website.
+## Description
 
+The study guide was created to provide a webpage for students to store their bootcamp notes. It is organized by bootcamp topic, and it provides a way for students to organize the large amount of information they are learning. I learned basic skills for use of Git and Github, HMTL, CSS, and JavaScript to implement the website.
 
 
 ## Installation
